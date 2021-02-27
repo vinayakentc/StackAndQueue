@@ -12,7 +12,7 @@ public class StackTest {
 		Stack<Integer> stack = new Stack<Integer>();
 		Node<Integer> firstNode = new Node<>(70);
 		Node<Integer> secondNode = new Node<>(30);
-		Node<Integer> thirdNode = new Node<>(65);
+		Node<Integer> thirdNode = new Node<>(56);
 		stack.push(firstNode);
 		stack.push(secondNode);
 		stack.push(thirdNode);
@@ -25,7 +25,7 @@ public class StackTest {
 		Stack<Integer> stack = new Stack<Integer>();
 		Node<Integer> firstNode = new Node<>(70);
 		Node<Integer> secondNode = new Node<>(30);
-		Node<Integer> thirdNode = new Node<>(65);
+		Node<Integer> thirdNode = new Node<>(56);
 		stack.push(firstNode);
 		stack.push(secondNode);
 		stack.push(thirdNode);
